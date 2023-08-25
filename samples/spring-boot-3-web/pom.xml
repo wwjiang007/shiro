@@ -34,7 +34,7 @@
 
     <properties>
         <module.name>samples.spring.boot3.web</module.name>
-        <spring-boot.version>3.1.1</spring-boot.version>
+        <spring-boot.version>2.7.15</spring-boot.version>
 <!--    below versions are not necessary in "real" applications -->
         <spring.version>6.0.10</spring.version>
     </properties>
